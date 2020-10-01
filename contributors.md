@@ -28,3 +28,5 @@
     - [LinkedIn](https://www.linkedin.com/in/gmrsagar)
 - [Srinath9721](https://github.com/srinath9721)   
 - [Pablo](https://github.com/pablo0910) 
+- [Rishika Agarwal](https://github.com/Rishika30)
+   -[LinkedIn](https://www.linkedin.com/in/rishika-agarwal-398121193/)
